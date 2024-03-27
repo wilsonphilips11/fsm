@@ -6,35 +6,36 @@ Field service management website & app for PT Motor Generator Spesialis Indonesi
 Website
 <br>
 <p align="center">
-  <img src="docs/landing_page.png" width="40%">
-  <img src="docs/blockchain.png" width="40%">
+  <img src="docs/web/1.png" width="30%">
+  <img src="docs/web/2.png" width="25.5%">
+  <img src="docs/web/3.png" width="22.5%">
 </p>
 
 <p align="center">
-  <img src="docs/blocks.png" width="37.5%">
-  <img src="docs/transactions.png" width="40%">
+  <img src="docs/web/4.png" width="25%">
+  <img src="docs/web/6.1.png" width="25%">
+  <img src="docs/web/7.png" width="25%">
 </p>
 
 <p align="center">
-  <img src="docs/request_document.png" width="40%">
+  <img src="docs/web/8.png" width="25%">
+  <img src="docs/web/9.png" width="30%">
+  <img src="docs/web/10.png" width="25%">
 </p>
 <br>
 
 App
 <br>
 <p align="center">
-  <img src="docs/dashboard.png" width="40%">
-  <img src="docs/generate_document.png" width="40%">
+  <img src="docs/apps/1.png" width="25%">
+  <img src="docs/apps/2.png" width="24.8%">
+  <img src="docs/apps/3.2.png" width="25%">
 </p>
 
 <p align="center">
-  <img src="docs/distribute_document.png" width="40%">
-  <img src="docs/verification_log.png" width="36.5%">
-</p>
-
-<p align="center">
-  <img src="docs/settings.png" width="40%">
-  <img src="docs/scheduler.png" width="40%">
+  <img src="docs/apps/4.png" width="25%">
+  <img src="docs/apps/5.png" width="24.7%">
+  <img src="docs/apps/6.png" width="25%">
 </p>
 <br>
 
