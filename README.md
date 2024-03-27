@@ -1,9 +1,9 @@
 ## FSM
-A graduation documents website made for Universitas Multimedia Nusantara to digitalize physical graduation documents and prevent document forgery. This project was developed using Yii, React, and Hyperledger Fabric.
+Field service management website & app for PT Motor Generator Spesialis Indonesia to handle tasks assignment involving project manager, technician, and customer build using Laravel and Vue.js.
 
 ## Demo
 
-Public
+Website
 <br>
 <p align="center">
   <img src="docs/landing_page.png" width="40%">
@@ -20,7 +20,7 @@ Public
 </p>
 <br>
 
-Admin Dashboard
+App
 <br>
 <p align="center">
   <img src="docs/dashboard.png" width="40%">
@@ -35,13 +35,6 @@ Admin Dashboard
 <p align="center">
   <img src="docs/settings.png" width="40%">
   <img src="docs/scheduler.png" width="40%">
-</p>
-<br>
-
-Officials Dashboard
-<br>
-<p align="center">
-  <img src="docs/sign_document.png" width="40%">
 </p>
 <br>
 
